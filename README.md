@@ -1,5 +1,7 @@
 # Code for "Stable and Invariant Zernike Descriptors for Shape Analysis"
 
+[![DOI](https://zenodo.org/badge/1399885732.svg)](https://doi.org/10.5281/zenodo.23084360)
+
 This repository reproduces all numerical results of the manuscript. The scripts are organized by
 experimental phase. Each phase reads the outputs of earlier phases and writes to `results_amc_phase*/`.
 
@@ -89,6 +91,11 @@ MIT License, see `LICENSE`.
 
 ## Citation
 
+If you use this code, please cite the article and the archived software:
+
 C.-H. Wei, Stable and invariant Zernike descriptors for shape analysis: discretization error and
 Fourier–Bessel spectral limits, submitted to Applied Mathematics and Computation.
+
+C.-H. Wei, zernike-stable-descriptors (v1.0), Zenodo, 2026. https://doi.org/10.5281/zenodo.23084361
+
 

@@ -1,0 +1,15 @@
+# Python 3.11
+numpy
+scipy
+scikit-learn
+matplotlib
+mpmath
+Pillow
+# needed only for Kimia-216, Kimia-99 and ETHZ loading and deep feature extraction
+torch
+torchvision
+opencv-python
+pandas
+# optional (hardware information)
+psutil
+threadpoolctl
